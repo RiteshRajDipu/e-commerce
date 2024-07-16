@@ -35,12 +35,13 @@
 
    .cartButton{
     background-color: #f1f1f1;
-    padding: 5px;
+    padding: 1px;
     outline: none;
     border: none;
     border-radius: 2px;
     cursor: pointer;
-    margin-top: 8px;
+    margin-top: 1px;
+    margin-left: -17px;
    }
 
    .leftCartRow{
