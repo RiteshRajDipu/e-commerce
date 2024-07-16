@@ -14,7 +14,7 @@ Make sure you have Node.js and npm (or yarn) installed on your development machi
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RiteshRajDipu/e-com
+   git clone https://github.com/RiteshRajDipu/e-commerce/tree/master
 
 2.  cd E-COM
 
