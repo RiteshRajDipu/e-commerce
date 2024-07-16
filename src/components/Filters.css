@@ -1,0 +1,42 @@
+
+.sidebar {
+    width: 250px;
+    background-color: #fff;
+    flex: 0 0 auto;
+    width: 200px;
+    border-radius: 4px;
+    padding: 12px;
+    border: 1px solid #ccc;
+}
+
+.filter {
+    margin-bottom: 20px;
+}
+
+.filter h4 {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.filter ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+}
+
+.filter li {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    transition: background-color 0.3s ease;
+}
+
+.filter li:hover {
+    background-color: #e0e0e0;
+}
+
+.filter li.selected {
+    background-color: #007bff;
+    color: white;
+}
